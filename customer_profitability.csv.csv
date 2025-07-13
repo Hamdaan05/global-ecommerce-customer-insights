@@ -1,0 +1,21 @@
+Customer_ID,Customer_Name,Total_Orders,Total_Sales,Total_Profit,Avg_Order_Value,Return_Flag
+490c976b-136c-456b-b656-1e052eae5d2f,Carrie Morales,1,58.38,499.94,58.38,TRUE
+faa652ae-961d-49ba-910a-2d4153250c11,Taylor Wolf,1,1381.67,499.52,1381.67,TRUE
+98427b31-af3a-432c-9460-d46d1127a729,Jennifer White,1,1547.17,499.41,1547.17,FALSE
+c9384c2e-f926-411a-90f0-a63355946ae6,Toni Morrison,1,1490.54,499.36,1490.54,FALSE
+d0d09b8b-33ad-426d-9cfb-04bd30c19031,Jeffrey Mueller,1,1840.35,499.2,1840.35,FALSE
+157d9342-ceb5-4668-a6c8-5a3aa5574a37,Jonathan Spears,1,374.28,499.18,374.28,FALSE
+2ab64787-b84a-45bd-a6c8-fa8221796b8a,Elizabeth Maynard,1,735.63,498.73,735.63,TRUE
+aea9d3ee-d01c-4cfb-83f5-7cb2908c4b8e,Mike Harper,1,1367.9,498.48,1367.9,FALSE
+b0d7b9c2-eb76-435e-8a92-4daefdabdbee,Hailey Lawrence,1,670.87,497.86,670.87,TRUE
+d88a0a68-ca8a-4367-b6be-3ea5d47a44ee,Timothy Reid,1,878.66,497.68,878.66,TRUE
+cfc942ee-6bb7-4bbe-84ed-a7f7129b1e22,Jennifer Bell,1,769.27,497.6,769.27,TRUE
+7c72ea4d-8580-4fd7-baea-a31fd4180fc3,Connie Alvarez,1,1840.8,497.37,1840.8,TRUE
+7fee878f-4e08-48c9-b4bc-ec51e9eec991,Derek Dennis,1,277.79,497.12,277.79,FALSE
+98902de9-26b1-47d6-ae47-67d8035a953d,William Hernandez,1,1910.2,497.04,1910.2,TRUE
+38ae6317-c032-4036-8caf-fcdbf60d063d,Sean White,1,1114.73,496.94,1114.73,FALSE
+c8819ce7-582b-4bee-8cce-84cf5212e8c7,Barbara Oneal,1,76.32,496.6,76.32,FALSE
+e72d5ff5-e7cc-4367-aa89-4626091dc3cc,Patty Chavez,1,739.69,496.49,739.69,FALSE
+27cf4d12-e585-425b-9ced-8249f1549a11,Mark Swanson,1,1340.55,496.39,1340.55,TRUE
+fe0f552a-340d-430b-847e-567abe5a9659,Jody Thompson,1,1768.05,496.36,1768.05,FALSE
+53e75cda-6ba3-457b-ade7-bfc778bafa02,Amanda Nelson,1,1618.8,496.05,1618.8,FALSE
