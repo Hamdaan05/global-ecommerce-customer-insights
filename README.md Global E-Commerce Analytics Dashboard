@@ -1,0 +1,71 @@
+# 🛍️ Global E-Commerce Analytics Dashboard
+
+An interactive business intelligence project built with **Power BI**, **Google BigQuery**, and **SQL** to analyze global e-commerce customer behavior, profitability, return patterns, and sales performance.
+
+---
+
+## 📌 Project Overview
+
+This project leverages real-world e-commerce data to extract meaningful insights on:
+
+* Customer-level profitability
+* Return behavior and patterns
+* Average order value analysis
+* Top-performing customers
+* Regional and segment-based performance
+
+The dashboard is cloud-connected and driven by BigQuery and DAX logic to enable decision-making and storytelling through data.
+
+---
+
+## 🛠️ Tools & Technologies Used
+
+| Category            | Tools / Languages                                |
+| ------------------- | ------------------------------------------------ |
+| Languages           | Python (data prep), SQL (BigQuery)               |
+| Data Warehouse      | Google BigQuery                                  |
+| Analytics & BI      | Power BI (DAX, Power Query, Matrix, Drill-downs) |
+| Spreadsheet Utility | Excel (data cleaning, formatting)                |
+| Hosting             | GitHub (for versioning & showcasing)             |
+
+---
+
+## 📊 Key Business Insights
+
+* 💰 Identified top 10 customers by total profit contribution
+* 📦 Analyzed return rate across customer segments and regions
+* 🧾 Measured average order value and its impact on profitability
+* 🚩 Flagged return-heavy customers for deeper analysis
+* 🌍 Grouped customers by segment and region for targeting
+
+---
+
+## 🧠 How to Run the Dashboard
+
+1. Clone/download this repo
+2. Open `PowerBI_Dashboard.pbix` using Power BI Desktop
+3. (Optional) Reconnect the dataset by linking to:
+
+   * `customer_summary.csv` or
+   * Live BigQuery connection
+4. Use slicers and visuals to explore data by region, segment, or return flag
+
+---
+
+## 📝 SQL Scripts Used
+
+All queries used to create `customer_summary.csv` are stored in `/SQL_Scripts/`, including:
+
+* `customer_summary.sql`
+* `top_customers_by_profit.sql`
+* `returns_by_segment.sql`
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+> 🔗 Feel free to fork, star, or use parts of this dashboard in your own data portfolio!
